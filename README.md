@@ -16,4 +16,4 @@ Performed exploratory data analysis on demographic data including age, gender, a
 Determined the optimal number of clusters using the elbow method and silhouette analysis, concluding that four clusters were appropriate for this dataset.
 
 Results were presented to the mall's management team, providing insight into customer segmentation, allowing them to tailor marketing efforts to each cluster's unique preferences.
-```sh
+
