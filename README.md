@@ -19,11 +19,11 @@ Results were presented to the mall's management team, providing insight into cus
 
 
 #Data visualiztion using Power Bi
-![image](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/1b438066-b050-4c44-9a72-d7e02712fdea)
+ ![image](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/da5a27bf-f9fd-4d31-aa98-110d52c64100)
 
+![hbfkifief_page-0001](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/b9433ec6-e314-475f-818d-89a0fa63aedf)
 
-![hbfkifief_page-0001](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/e093bb7f-10fd-43d0-9f1a-3e563af8b30c)
-
+ 
 
 
 
