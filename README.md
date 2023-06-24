@@ -16,12 +16,13 @@ Performed exploratory data analysis on demographic data including age, gender, a
 Determined the optimal number of clusters using the elbow method and silhouette analysis, concluding that four clusters were appropriate for this dataset.
 
 Results were presented to the mall's management team, providing insight into customer segmentation, allowing them to tailor marketing efforts to each cluster's unique preferences.
+```
 
-
-#Data visualiztion using Power Bi
+# Data visualiztion using Power Bi
  
  
 ![hbfkifief_page-0001](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/ea8cb233-39bb-4582-8242-a82d37e1d4da)
 
 
+![image](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/d48ee9b3-897c-4a65-bdcd-effff96453db)
 
