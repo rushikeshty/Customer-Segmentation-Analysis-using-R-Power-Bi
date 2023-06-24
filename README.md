@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis-using-R
+# Customer-Segmentation-Analysis-using-R & Power Bi
 
 Customer segmentation is the process of dividing a customer base into groups of individuals who share similarities in different ways relevant to marketing, such as gender, age, interests, and other spending habits.
 Companies deploying customer segmentation assume that each customer has different requirements that require specific marketing efforts to properly address them. Companies aim for a deeper approach to the customers they target. Therefore, their goals must be clear and should be tailored to each client's needs. Moreover, through the collected data, companies can gain a deeper understanding of customer preferences and discover the needs of valuable segments to allow them to maximize their profits. In this way, they can formulate marketing strategies more effectively and minimize investment risks.
@@ -16,3 +16,14 @@ Performed exploratory data analysis on demographic data including age, gender, a
 Determined the optimal number of clusters using the elbow method and silhouette analysis, concluding that four clusters were appropriate for this dataset.
 
 Results were presented to the mall's management team, providing insight into customer segmentation, allowing them to tailor marketing efforts to each cluster's unique preferences.
+
+
+#Data visualiztion using Power Bi
+![image](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/1b438066-b050-4c44-9a72-d7e02712fdea)
+
+
+![hbfkifief_page-0001](https://github.com/rushikeshty/Customer-Segmentation-Analysis-using-R/assets/117820507/e093bb7f-10fd-43d0-9f1a-3e563af8b30c)
+
+
+
+
